@@ -13,7 +13,7 @@ This repository is a testament to my journey through the “JavaScript from Zero
 - **Section Animation**: Sections reveal animation when they come into view.
 - **Lazy Loading Images**: Images are loaded only when they come into the viewport, enhancing performance.
 - **Slider**: An image slider with navigation buttons and dots for easy navigation.
-- 
+
  ## Installation <img src="https://github.com/ScriptCrafterJS/Bankist-App-Home-Page/assets/151676251/913355e8-d060-4775-b228-f3d1964a1b42" width="40">
 
 1. **Clone the Repository**: 
