@@ -1,8 +1,6 @@
 # HomePage-Bankist-App
 This repository is a testament to my journey through the “JavaScript from Zero to Expert” course on Udemy. It showcases my understanding of advanced JavaScript concepts and their application in building dynamic and interactive web applications. The project encapsulates a wide array of topics including DOM manipulation, event handling, and efficient script-loading techniques. The “Bankist” website, developed as part of this course, serves as a practical demonstration of these concepts. It features elements such as smooth scrolling, page navigation, lazy loading of images, and a slider component, all implemented using pure JavaScript. This project is a reflection of my learning and growth in JavaScript and my commitment to creating efficient and user-friendly web applications.
 
-<img src="https://github.com/MotasemNabeelAli/HomePage-Bankist-App/blob/main/preview%20of%20bankist%20app.png">
-
 ## Features <img src="https://github.com/MotasemNabeelAli/Palestine_Martyrs_Organizer/assets/97013908/7fc60202-2d63-443c-acbc-621634d0952e" width="40">
 
 - **Modal Window**: A responsive modal window that can be triggered by various buttons.
